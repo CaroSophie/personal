@@ -6,3 +6,9 @@
   justify-content: center;
   align-items: center;
 }
+
+.image-container {
+  border: 5px solid purple;
+  border-radius: 10px;
+  box-shadow: 10px 5px 5px purple;
+}
